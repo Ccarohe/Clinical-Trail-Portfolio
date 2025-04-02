@@ -1,0 +1,101 @@
+Trial_ID,Drug_Name,Indication,Adverse_Events_Rate,Retention_Rate,FDA_Status,Region,Duration_Days
+TRIAL_001,Drug_A0,Bipolar Disorder,0.19,0.68,Denied,Asia,176
+TRIAL_002,Drug_B1,Schizophrenia,0.17,0.95,Approved,North America,233
+TRIAL_003,Drug_C2,Bipolar Disorder,0.07,0.97,Pending,North America,213
+TRIAL_004,Drug_D3,Bipolar Disorder,0.28,0.64,Pending,North America,332
+TRIAL_005,Drug_E4,Bipolar Disorder,0.18,0.65,Approved,Asia,354
+TRIAL_006,Drug_F5,Schizophrenia,0.21,0.73,Approved,North America,349
+TRIAL_007,Drug_G6,Bipolar Disorder,0.27,0.72,Pending,Asia,340
+TRIAL_008,Drug_H7,Bipolar Disorder,0.19,0.98,Pending,Europe,243
+TRIAL_009,Drug_I8,Bipolar Disorder,0.1,0.58,Pending,Asia,246
+TRIAL_010,Drug_J9,Schizophrenia,0.04,0.51,Approved,Asia,160
+TRIAL_011,Drug_K10,Bipolar Disorder,0.14,0.74,Approved,Europe,117
+TRIAL_012,Drug_L11,Bipolar Disorder,0.07,0.59,Pending,Asia,185
+TRIAL_013,Drug_M12,Bipolar Disorder,0.13,0.68,Denied,North America,199
+TRIAL_014,Drug_N13,Bipolar Disorder,0.27,0.86,Approved,North America,320
+TRIAL_015,Drug_O14,Schizophrenia,0.1,0.85,Pending,Asia,327
+TRIAL_016,Drug_P15,Bipolar Disorder,0.05,0.65,Pending,North America,129
+TRIAL_017,Drug_Q16,Schizophrenia,0.11,0.76,Pending,Asia,333
+TRIAL_018,Drug_R17,Schizophrenia,0.27,0.74,Denied,North America,113
+TRIAL_019,Drug_S18,Schizophrenia,0.09,0.81,Approved,North America,170
+TRIAL_020,Drug_T19,Bipolar Disorder,0.2,0.62,Approved,Asia,346
+TRIAL_021,Drug_U20,Schizophrenia,0.01,0.78,Approved,North America,250
+TRIAL_022,Drug_V21,Bipolar Disorder,0.11,0.97,Approved,Asia,297
+TRIAL_023,Drug_W22,Schizophrenia,0.1,0.73,Approved,North America,197
+TRIAL_024,Drug_X23,Schizophrenia,0.06,0.93,Pending,North America,95
+TRIAL_025,Drug_Y24,Schizophrenia,0.16,0.71,Approved,Europe,291
+TRIAL_026,Drug_Z25,Schizophrenia,0.15,0.67,Pending,Europe,174
+TRIAL_027,Drug_A26,Schizophrenia,0.21,0.81,Pending,Asia,180
+TRIAL_028,Drug_B27,Schizophrenia,0.09,0.82,Pending,Europe,243
+TRIAL_029,Drug_C28,Schizophrenia,0.08,0.91,Pending,Asia,336
+TRIAL_030,Drug_D29,Schizophrenia,0.06,0.61,Pending,Europe,321
+TRIAL_031,Drug_E30,Bipolar Disorder,0.07,0.74,Pending,North America,106
+TRIAL_032,Drug_F31,Bipolar Disorder,0.17,0.77,Denied,Asia,330
+TRIAL_033,Drug_G32,Schizophrenia,0.13,0.87,Pending,Asia,229
+TRIAL_034,Drug_H33,Schizophrenia,0.03,0.52,Pending,North America,138
+TRIAL_035,Drug_I34,Schizophrenia,0.08,0.98,Approved,Asia,146
+TRIAL_036,Drug_J35,Bipolar Disorder,0.08,0.73,Approved,Asia,96
+TRIAL_037,Drug_K36,Schizophrenia,0.21,0.63,Pending,Europe,199
+TRIAL_038,Drug_L37,Bipolar Disorder,0.22,0.92,Approved,Asia,136
+TRIAL_039,Drug_M38,Bipolar Disorder,0.05,0.86,Approved,North America,353
+TRIAL_040,Drug_N39,Bipolar Disorder,0.3,0.96,Pending,Europe,242
+TRIAL_041,Drug_O40,Bipolar Disorder,0.09,0.66,Denied,Europe,222
+TRIAL_042,Drug_P41,Bipolar Disorder,0.29,0.77,Approved,North America,158
+TRIAL_043,Drug_Q42,Schizophrenia,0.13,0.77,Pending,North America,261
+TRIAL_044,Drug_R43,Schizophrenia,0.02,0.97,Pending,Europe,284
+TRIAL_045,Drug_S44,Schizophrenia,0.11,0.54,Denied,Asia,137
+TRIAL_046,Drug_T45,Schizophrenia,0.19,0.65,Approved,Europe,190
+TRIAL_047,Drug_U46,Schizophrenia,0.21,0.59,Approved,North America,177
+TRIAL_048,Drug_V47,Bipolar Disorder,0.16,0.63,Approved,Europe,345
+TRIAL_049,Drug_W48,Schizophrenia,0.14,0.73,Approved,North America,280
+TRIAL_050,Drug_X49,Schizophrenia,0.17,0.68,Denied,Europe,119
+TRIAL_051,Drug_Y50,Bipolar Disorder,0.18,0.69,Denied,Asia,133
+TRIAL_052,Drug_Z51,Schizophrenia,0.03,0.91,Approved,Europe,320
+TRIAL_053,Drug_A52,Bipolar Disorder,0.12,0.95,Approved,Europe,93
+TRIAL_054,Drug_B53,Schizophrenia,0.08,0.53,Approved,North America,240
+TRIAL_055,Drug_C54,Bipolar Disorder,0.24,0.6,Approved,North America,326
+TRIAL_056,Drug_D55,Schizophrenia,0.15,0.82,Approved,North America,209
+TRIAL_057,Drug_E56,Schizophrenia,0.3,0.67,Pending,Europe,305
+TRIAL_058,Drug_F57,Bipolar Disorder,0.13,0.62,Approved,Asia,119
+TRIAL_059,Drug_G58,Bipolar Disorder,0.25,0.64,Approved,North America,227
+TRIAL_060,Drug_H59,Bipolar Disorder,0.24,0.65,Approved,North America,249
+TRIAL_061,Drug_I60,Bipolar Disorder,0.05,0.91,Approved,Europe,175
+TRIAL_062,Drug_J61,Bipolar Disorder,0.16,0.57,Approved,North America,356
+TRIAL_063,Drug_K62,Bipolar Disorder,0.21,0.84,Pending,Asia,152
+TRIAL_064,Drug_L63,Bipolar Disorder,0.26,0.77,Pending,Asia,207
+TRIAL_065,Drug_M64,Bipolar Disorder,0.1,0.64,Pending,North America,139
+TRIAL_066,Drug_N65,Schizophrenia,0.07,0.7,Pending,North America,296
+TRIAL_067,Drug_O66,Schizophrenia,0.22,0.62,Pending,Europe,152
+TRIAL_068,Drug_P67,Bipolar Disorder,0.24,0.79,Approved,Asia,332
+TRIAL_069,Drug_Q68,Schizophrenia,0.11,0.54,Pending,Asia,112
+TRIAL_070,Drug_R69,Schizophrenia,0.04,0.5,Approved,North America,336
+TRIAL_071,Drug_S70,Schizophrenia,0.28,0.8,Pending,Europe,145
+TRIAL_072,Drug_T71,Schizophrenia,0.13,0.59,Approved,Asia,338
+TRIAL_073,Drug_U72,Bipolar Disorder,0.16,0.53,Pending,Asia,172
+TRIAL_074,Drug_V73,Schizophrenia,0.25,0.69,Pending,Europe,282
+TRIAL_075,Drug_W74,Bipolar Disorder,0.21,0.52,Approved,Europe,215
+TRIAL_076,Drug_X75,Schizophrenia,0.22,0.93,Approved,Asia,109
+TRIAL_077,Drug_Y76,Schizophrenia,0.07,0.51,Pending,Asia,273
+TRIAL_078,Drug_Z77,Schizophrenia,0.17,0.78,Denied,Europe,263
+TRIAL_079,Drug_A78,Bipolar Disorder,0.21,0.71,Pending,Asia,270
+TRIAL_080,Drug_B79,Schizophrenia,0.08,0.82,Approved,North America,122
+TRIAL_081,Drug_C80,Bipolar Disorder,0.06,0.66,Denied,North America,305
+TRIAL_082,Drug_D81,Schizophrenia,0.29,0.57,Approved,Europe,143
+TRIAL_083,Drug_E82,Bipolar Disorder,0.16,0.97,Approved,Europe,321
+TRIAL_084,Drug_F83,Schizophrenia,0.09,0.9,Approved,Europe,328
+TRIAL_085,Drug_G84,Bipolar Disorder,0.3,0.91,Approved,North America,292
+TRIAL_086,Drug_H85,Bipolar Disorder,0.29,0.62,Approved,Asia,102
+TRIAL_087,Drug_I86,Schizophrenia,0.17,0.52,Pending,North America,156
+TRIAL_088,Drug_J87,Bipolar Disorder,0.27,0.65,Pending,Asia,271
+TRIAL_089,Drug_K88,Schizophrenia,0.06,0.76,Approved,North America,153
+TRIAL_090,Drug_L89,Schizophrenia,0.09,0.66,Approved,Asia,213
+TRIAL_091,Drug_M90,Schizophrenia,0.21,0.9,Approved,North America,110
+TRIAL_092,Drug_N91,Schizophrenia,0.26,0.63,Pending,Europe,313
+TRIAL_093,Drug_O92,Schizophrenia,0.26,0.96,Approved,North America,265
+TRIAL_094,Drug_P93,Schizophrenia,0.13,0.72,Approved,Asia,281
+TRIAL_095,Drug_Q94,Schizophrenia,0.27,0.9,Pending,North America,212
+TRIAL_096,Drug_R95,Schizophrenia,0.26,0.59,Pending,North America,145
+TRIAL_097,Drug_S96,Schizophrenia,0.28,0.7,Approved,North America,121
+TRIAL_098,Drug_T97,Schizophrenia,0.24,0.84,Approved,Europe,312
+TRIAL_099,Drug_U98,Schizophrenia,0.2,0.57,Pending,North America,243
+TRIAL_100,Drug_V99,Bipolar Disorder,0.18,0.56,Pending,Europe,342
